@@ -1,6 +1,6 @@
 {
   "name": "gulp-inheritance",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp plugin to emit the files that depend on the input files",
   "main": "index.js",
   "scripts": {
