@@ -1,0 +1,42 @@
+{
+  "name": "gulp-inheritance",
+  "version": "0.0.0",
+  "description": "Gulp plugin to emit the files that depend on the input files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "homepage": "https://github.com/rasenplanscher/gulp-inheritance",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rasenplanscher/gulp-inheritance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rasenplanscher/gulp-inheritance/issues"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "inheritance",
+    "dependencies",
+    "dep",
+    "depends",
+    "depend"
+  ],
+  "author": "rasenplanscher",
+  "license": "ISC",
+  "dependencies": {
+    "dependency-graph": "^0.4.1",
+    "event-stream": "^3.3.2",
+    "lodash": "^4.6.1",
+    "mississippi": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "mocha": "^2.4.5"
+  },
+  "peerDependencies": {
+    "gulp": "*"
+  }
+}

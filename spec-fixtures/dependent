@@ -1,0 +1,4 @@
+@include ./dependency
+@include ./hidden-dependency
+
+dependent on dependency
