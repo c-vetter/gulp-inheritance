@@ -37,6 +37,6 @@
     "mocha": "^2.4.5"
   },
   "peerDependencies": {
-    "gulp": "*"
+    "gulp": ">3.0.0 || >4.0.0-alpha.2"
   }
 }
